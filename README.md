@@ -10,7 +10,7 @@ Android controls:
   Shoot by tapping the anywhere on the right half of the screen.
   
 Windows controls:
-  WASD to control ship 
+  WASD to control ship
   Mouse-click to shoot
   
 [Click this link to visit the app's Android page.](https://play.google.com/store/apps/details?id=com.danm551.Source)
